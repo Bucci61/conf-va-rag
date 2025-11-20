@@ -1,0 +1,24 @@
+Render.com per il servizio API Python
+https://dashboard.render.com/web/srv-d4eujji4d50c73e3pb80/deploys/dep-d4eujjq4d50c73e3pbeg
+
+Pinecone come DB Vettoriale
+https://app.pinecone.io/organizations/-OdxMRmp0UdJdO4fUOpz/projects/7e5cdb08-46a2-42ea-b4fa-d1f23872ee2b/indexes
+https://app.pinecone.io/organizations/-OdxMRmp0UdJdO4fUOpz/settings/billing/plans
+
+
+GitHub come repository
+https://github.com/Bucci61/conf-va-rag
+
+
+
+
+Inserire organigramma e chi siamo
+
+univorn API
+http://127.0.0.1:8000/rag?query=chi%20sei%20e%20cosa%20sai%20fare
+
+UNICONRN Hosted
+quesry
+https://conf-va-rag.onrender.com/rag?query=dammi%20l%27organigramma%20di%20confindustria%20varese
+
+Ulr render https://dashboard.render.com/project/prj-d4eujiqli9vc73b4h2t0
